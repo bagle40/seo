@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+fastapi==0.111.0
+nltk==3.8.1
+Requests==2.31.0
